@@ -7,7 +7,10 @@ public class Hello {
 		
 		System.out.println("HellojnZNXnjn");
 		
+
 		// helloo2233
+
+		
 	}
 
 }
