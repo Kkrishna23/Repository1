@@ -14,6 +14,12 @@ public class Hello {
 		   catch(Exception e){System.out.println("common task completed");}  
 		  
 		   System.out.println("rest of the code...");  
+		   
+		 System.out.println("difference");
+		  System.out.println("task 2 completed");
+		 System.out.println("common task completed"); 
+		  
+		   System.out.println("rest of the code...");  
 
 }
 
